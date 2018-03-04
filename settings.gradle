@@ -1,3 +1,4 @@
 rootProject.name = 'openrndr-panel-examples'
 
-include 'filedialog'
+include 'filedialog',
+        'dropdown-button'
